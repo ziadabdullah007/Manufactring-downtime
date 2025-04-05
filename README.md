@@ -31,8 +31,9 @@ d to reduce downtime?
 ## Dashboard
 
 
+![24](https://github.com/user-attachments/assets/487a0b9e-7e2f-4347-86ae-92af5a6088cc)
 
-![113](https://github.com/user-attachments/assets/6008cbc9-f097-4ec7-837a-e23f0b337afa)
+
 
 
 ![G5](https://github.com/user-attachments/assets/6bcab3b6-c004-4e6d-9105-76ba00b8c7b8)
