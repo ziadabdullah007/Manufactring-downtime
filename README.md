@@ -25,5 +25,15 @@ Provide actionable recommendations to minimize downtime and improve efficiency.
 - What percentage of production time is lost due to downtime?
 - Can we predict when a machine is likely to fail?
 - Which factors contribute most to downtime risk?
-- How can preventive maintenance be optimized to reduce downtime?
+- How can preventive maintenance be optimize
+d to reduce downtime?
 - What are the trends in downtime across machines, shifts, and causes?
+## Dashboard
+
+
+
+![113](https://github.com/user-attachments/assets/6008cbc9-f097-4ec7-837a-e23f0b337afa)
+
+
+![G5](https://github.com/user-attachments/assets/6bcab3b6-c004-4e6d-9105-76ba00b8c7b8)
+![114](https://github.com/user-attachments/assets/c81b3655-da52-4a1b-b840-1b44ab2c83c3)
